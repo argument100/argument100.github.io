@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>log </title>
+    <link>http://argument100.github.io/post/</link>
+    <language>en-us</language>
+    <author></author>
+    <rights>(C) 2016</rights>
+    <updated>2016-03-10 00:00:00 &#43;0000 UTC</updated>
+
+    
+      
+        <item>
+          <title>Javascript</title>
+          <link>http://argument100.github.io/post/first/</link>
+          <pubDate>Thu, 10 Mar 2016 00:00:00 UTC</pubDate>
+          <author></author>
+          <guid>http://argument100.github.io/post/first/</guid>
+          <description>
+
+&lt;h2 id=&#34;javascript:e8fb9c67eba912c72729806db31eaa1b&#34;&gt;Javascript&lt;/h2&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-javascript&#34;&gt;var hoge = function(){
+  console.log(&#39;fuga&#39;);
+};
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+        </item>
+      
+    
+
+  </channel>
+</rss>
